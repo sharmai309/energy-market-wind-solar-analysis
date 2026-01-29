@@ -64,7 +64,7 @@ Includes:
 
 
 # How to Run
-git clone https://github.com/yourusername/energy-market-wind-solar-analysis.git
+git clone https://github.com/sharmai309/energy-market-wind-solar-analysis
 cd energy-market-wind-solar-analysis
 pip install -r requirements.txt
 jupyter notebook
